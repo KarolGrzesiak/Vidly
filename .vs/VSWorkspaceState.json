@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\Vidly",
+    "\\Vidly\\Migrations",
+    "\\Vidly\\Models",
+    "\\Vidly\\obj",
+    "\\Vidly\\obj\\Debug",
+    "\\Vidly\\obj\\Release",
+    "\\Vidly\\obj\\Release\\Package",
+    "\\Vidly\\obj\\Release\\Package\\PackageTmp",
+    "\\Vidly\\obj\\Release\\Package\\PackageTmp\\bin",
+    "\\Vidly\\ViewModels"
+  ],
+  "PreviewInSolutionExplorer": false
+}
